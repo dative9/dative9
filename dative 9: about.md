@@ -15,7 +15,7 @@
 
 ### **Handle/Alias:** ### 
 
-> <i> 　　<b>dative9</b> - "random choir practice daydreams + a number to spice things up and make me unique" </i>
+> <i> 　　<b>dative9</b> - from the wildest train of thoughts</i>
 
 
 <br>
@@ -32,8 +32,8 @@
 ### **Languages:** ### 
 
 > <i> 　　**native language:** English
-<br> 　　**learnt some, but far from fluent in (past tense):** Chinese Mandarin, French, Spanish, Classical Greek & Russian
-<br> 　　**currently learning (or at least attempting to):** Latin, German & Japanese </i>
+<br> 　　**learnt some, but far from fluent (not currently actively trying to master):** Chinese Mandarin, Japanese, French, Spanish, Classical Greek & Russian
+<br> 　　**currently learning (or at least attempting to):** Latin & German </i>
 
 
 <br>
@@ -47,9 +47,9 @@
 ## 　OTHER: ##
 
 
-### **Current proudest <u>computing</u> achievement:** ### 
+### **Current proudest <u>computer-related</u> achievement:** ### 
 
-> <i> 　　"making tons of lowkey ugly custom desktop icons & learning some <s>very minimal & extremely basic amount of</s> HTML & CSS" </i>
+> <i> 　　"making tons of lowkey ugly custom desktop icons & learning some <s>random lines to make my Anki more sophisticated</s> HTML & CSS" </i>
 
 
 <br>
