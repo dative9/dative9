@@ -1,7 +1,7 @@
-# ☻ WELCOME TO DATIVE9'S ABOUT ME DOCUMENT ☺︎ #
+ # ☻ WELCOME TO DATIVE9'S ABOUT ME DOCUMENT ☺︎ #
 
 
-###### *〜 bored yet overly ambitious teenager who likes to <s>*steal*</s> ***meddle with code*** while listening to obscure music at 24:00 〜* ######
+	###### *〜 bored yet overly ambitious teenager who likes to <s>*steal*</s> ***meddle with code*** at 24:00 〜* ######
 
 
 <br><br><br>
@@ -15,7 +15,7 @@
 
 ### **Handle/Alias:** ### 
 
-> <i> 　　<b>dative9</b> - from the wildest train of thoughts</i>
+> <i> 　　<b>dative9</b> - from a twisty train of thought</i>
 
 
 <br>
@@ -32,7 +32,6 @@
 ### **Languages:** ### 
 
 > <i> 　　**native language:** English
-<br> 　　**learnt some, but far from fluent (not currently actively trying to master):** Chinese Mandarin, Japanese, French, Spanish, Classical Greek & Russian
 <br> 　　**currently learning (or at least attempting to):** Latin & German </i>
 
 
@@ -40,7 +39,7 @@
 
 
 
-<br><br><br>
+<br>
 
 <hr>
 
@@ -49,7 +48,7 @@
 
 ### **Current proudest <u>computer-related</u> achievement:** ### 
 
-> <i> 　　"making tons of lowkey ugly custom desktop icons & learning some <s>random lines to make my Anki more sophisticated</s> HTML & CSS" </i>
+> <i> 　　"making tons of lowkey ugly custom desktop icons & learning some <s>random lines to make my Anki sexier</s> HTML & CSS" </i>
 
 
 <br>
@@ -57,7 +56,7 @@
 
 ### **Current aspiration(s):** ### 
 
-> <i> 　　"fix sleep schedule while simultaneously being a super productive & successful robot, with style" </i>
+> <i> 　　"make life work for me rather than vice versa" </i>
 
 
 
