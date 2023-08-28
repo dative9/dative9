@@ -1,8 +1,7 @@
  # ☻ WELCOME TO DATIVE9'S ABOUT ME DOCUMENT ☺︎ #
 
 
-    ###### *〜 bored yet overly ambitious teenager who likes to <s>*steal*</s> ***meddle with code*** at 24:00 〜* ######
-
+    ###### *〜 everything tastes better at 23:60 〜* ######
 
 <br>
 
