@@ -1,7 +1,7 @@
  # ☻ WELCOME TO DATIVE9'S ABOUT ME DOCUMENT ☺︎ #
 
 
-    ###### *〜 everything tastes better at 23:60 〜* ######
+    ###### *〜 everything cereal or chocolate related tastes better at 23:60 〜* ######
 
 <br>
 
