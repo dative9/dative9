@@ -11,7 +11,7 @@
 ### **Languages:** ### 
 
 > <i> 　　**native language:** English
-<br> 　　**currently learning (or at least attempting to):** Latin & German </i>
+<br> 　　**currently learning:** Latin & German </i>
 
 
 <br>
