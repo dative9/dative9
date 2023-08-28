@@ -4,7 +4,7 @@
     ###### *〜 bored yet overly ambitious teenager who likes to <s>*steal*</s> ***meddle with code*** at 24:00 〜* ######
 
 
-<br><br>
+<br>
 
 
 <hr>
