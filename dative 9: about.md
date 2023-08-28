@@ -9,26 +9,6 @@
 
 <hr>
 
-## 　BASIC: ##
-
-
-
-### **Handle/Alias:** ### 
-
-> <i> 　　<b>dative9</b> - from a twisty train of thought</i>
-
-
-<br>
-
-
-### **Location:** ### 
-
-> <i> 　　"somewhere in the Milky Way galaxy, according to some scientists"</i>
-
-
-<br>
-
-
 ### **Languages:** ### 
 
 > <i> 　　**native language:** English
@@ -46,9 +26,9 @@
 ## 　OTHER: ##
 
 
-### **Current proudest <u>computer-related</u> achievement:** ### 
+### **what i'm currently disproportionately proud of:** ### 
 
-> <i> 　　"making tons of lowkey ugly custom desktop icons & learning some <s>random lines to make my Anki sexier</s> HTML & CSS" </i>
+> <i> 　　"making tons of lowkey ugly icons & learning some <s>random lines to make my Anki sexier</s> HTML & CSS" </i>
 
 
 <br>
